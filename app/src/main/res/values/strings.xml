@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Electronic App</string>
+    <array name="price">
+        <item>1500</item>
+        <item>650</item>
+        <item>180</item>
+        <item>550</item>
+        <item>120</item>
+    </array>
+    <array name="title">
+        <item>Mac M1</item>
+        <item>Acer Tablet</item>
+        <item>Asus Keyboard</item>
+        <item>Dell Monitor</item>
+        <item>Dell Mouse</item>
+    </array>
+    <array name="subTitle">
+        <item>32-core</item>
+        <item>16-core</item>
+        <item>Portable</item>
+        <item>Super Large</item>
+        <item>Chargeable</item>
+    </array>
+
+</resources>
